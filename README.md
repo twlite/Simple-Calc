@@ -8,3 +8,4 @@ Installing:
 - npm start
 
 
+![Image](./html/assets/Capture.PNG)

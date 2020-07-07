@@ -9,7 +9,7 @@
   "author": "INEX07",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^7.1.0"
+    "electron": "^7.2.4"
   },
   "dependencies": {
     "path": "^0.12.7",
